@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\Banditlord Rework\Banditlord\Banditlord\obj\Debug\Banditlord.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Banditlord Rework\Banditlord\Banditlord\obj\Debug\Banditlord.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Banditlord\bin\Win64_Shipping_Client\Banditlord.dll
+D:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\Banditlord\bin\Win64_Shipping_Client\Banditlord.pdb
+C:\Users\chris\source\repos\Banditlord Rework\Banditlord\Banditlord\obj\Debug\Banditlord.csproj.CopyComplete
+C:\Users\chris\source\repos\Banditlord Rework\Banditlord\Banditlord\obj\Debug\Banditlord.dll
+C:\Users\chris\source\repos\Banditlord Rework\Banditlord\Banditlord\obj\Debug\Banditlord.pdb
